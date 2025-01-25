@@ -12,7 +12,7 @@ Collection of Python learning Jupyter notebooks with markdown notes.
 1. Clone the repository
 2. Create virtual environment:
     ```
-    python -m venv venv
+    python -m venv myenv
     source myenv/bin/activate  # On Unix/macOS
     myenv\Scripts\activate    # On Windows
     ```
