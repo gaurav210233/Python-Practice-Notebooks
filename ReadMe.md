@@ -1,7 +1,7 @@
-# Python Learning Notebooks
+# Python Practice Notebooks
 
 ## Overview
-Collection of Python learning Jupyter notebooks with markdown notes.
+Collection of Python practice Jupyter notebooks with markdown notes.
 
 ## Setup
 - Python version: `3.13.1`
